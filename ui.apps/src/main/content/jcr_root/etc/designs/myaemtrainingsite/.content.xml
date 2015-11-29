@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         jcr:primaryType="nt:unstructured"
-        jcr:title="My AEM Training Site Site Design"
+        jcr:title="My AEM Training Site Design"
         sling:resourceType="wcm/core/components/designer">
         <page jcr:primaryType="nt:unstructured">
             <par

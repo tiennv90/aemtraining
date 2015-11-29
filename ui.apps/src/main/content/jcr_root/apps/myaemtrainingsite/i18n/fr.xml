@@ -6,6 +6,6 @@
     <copyright
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
-        sling:key="&amp;copy; {0} My AEM Training Site Site Site. All rights reserved."
-        sling:message="&amp;copy; {0} My AEM Training Site Site Site. Tous droits réservés."/>
+        sling:key="&amp;copy; {0} My AEM Training Site. All rights reserved."
+        sling:message="&amp;copy; {0} My AEM Training Site. Tous droits réservés."/>
 </jcr:root>
